@@ -1,0 +1,404 @@
+2022-10-29 15:12:33 INFO  FormTest:27 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:12:33 INFO  FormTest:16 - Go To ToolsQA WebPage
+2022-10-29 15:12:36 INFO  FormTest:20 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:12:36 INFO  FormTest:25 - Succesful Login ToolsQA WebPage
+2022-10-29 15:12:42 INFO  FormTest:56 - name alanı dolduruldu
+2022-10-29 15:12:42 INFO  FormTest:58 - lastname alanı dolduruldu
+2022-10-29 15:12:42 INFO  FormTest:60 - mail alanı dolduruldu
+2022-10-29 15:12:45 INFO  FormTest:62 - female radio butonu tıklandı
+2022-10-29 15:12:45 INFO  FormTest:64 - mobil alanı dolduruldu
+2022-10-29 15:12:45 INFO  FormTest:66 - tarih dropdownu tıklandı
+2022-10-29 15:12:45 INFO  FormTest:69 - ay bilgisi seçildi 
+2022-10-29 15:12:46 INFO  FormTest:72 - yıl bilgisi seçildi 
+2022-10-29 15:12:46 INFO  FormTest:74 - gun bilgisi seçildi 
+2022-10-29 15:12:49 INFO  FormTest:76 - sport radio butonu tıklandı
+2022-10-29 15:12:49 INFO  FormTest:78 - dosya yolu tanımlandı 
+2022-10-29 15:14:31 INFO  FormTest:27 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:14:31 INFO  FormTest:16 - Go To ToolsQA WebPage
+2022-10-29 15:14:43 INFO  FormTest:20 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:14:43 INFO  FormTest:25 - Succesful Login ToolsQA WebPage
+2022-10-29 15:14:50 INFO  FormTest:56 - name alanı dolduruldu
+2022-10-29 15:14:50 INFO  FormTest:58 - lastname alanı dolduruldu
+2022-10-29 15:14:50 INFO  FormTest:60 - mail alanı dolduruldu
+2022-10-29 15:14:53 INFO  FormTest:62 - female radio butonu tıklandı
+2022-10-29 15:14:53 INFO  FormTest:64 - mobil alanı dolduruldu
+2022-10-29 15:14:53 INFO  FormTest:66 - tarih dropdownu tıklandı
+2022-10-29 15:14:53 INFO  FormTest:69 - ay bilgisi seçildi 
+2022-10-29 15:14:53 INFO  FormTest:72 - yıl bilgisi seçildi 
+2022-10-29 15:14:53 INFO  FormTest:74 - gun bilgisi seçildi 
+2022-10-29 15:14:56 INFO  FormTest:76 - sport radio butonu tıklandı
+2022-10-29 15:14:56 INFO  FormTest:78 - dosya yolu tanımlandı 
+2022-10-29 15:14:56 INFO  FormTest:80 - dosya seç butonuna tıklandı
+2022-10-29 15:14:56 INFO  FormTest:82 - adres bilgisi dolduruldu
+2022-10-29 15:14:56 INFO  FormTest:86 - ulke ve sehir secildikten sonra submit butonuna tıklandı
+2022-10-29 15:25:01 INFO  FormTest:28 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:25:01 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 15:25:03 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:25:03 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 15:25:10 INFO  FormTest:57 - name alanı dolduruldu
+2022-10-29 15:25:10 INFO  FormTest:59 - lastname alanı dolduruldu
+2022-10-29 15:25:10 INFO  FormTest:61 - mail alanı dolduruldu
+2022-10-29 15:25:13 INFO  FormTest:63 - female radio butonu tıklandı
+2022-10-29 15:25:13 INFO  FormTest:65 - mobil alanı dolduruldu
+2022-10-29 15:25:13 INFO  FormTest:67 - tarih dropdownu tıklandı
+2022-10-29 15:25:13 INFO  FormTest:70 - ay bilgisi seçildi 
+2022-10-29 15:25:13 INFO  FormTest:73 - yıl bilgisi seçildi 
+2022-10-29 15:25:13 INFO  FormTest:75 - gun bilgisi seçildi 
+2022-10-29 15:25:16 INFO  FormTest:77 - sport radio butonu tıklandı
+2022-10-29 15:25:16 INFO  FormTest:79 - dosya yolu tanımlandı 
+2022-10-29 15:25:16 INFO  FormTest:81 - dosya seç butonuna tıklandı
+2022-10-29 15:25:16 INFO  FormTest:83 - adres bilgisi dolduruldu
+2022-10-29 15:25:16 INFO  FormTest:87 - ulke ve sehir secildikten sonra submit butonuna tıklandı
+2022-10-29 15:34:25 INFO  FormTest:29 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:34:25 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 15:34:27 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:34:27 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 15:34:30 INFO  FormTest:34 - name alanı dolduruldu
+2022-10-29 15:34:30 INFO  FormTest:36 - lastname alanı dolduruldu
+2022-10-29 15:34:30 INFO  FormTest:38 - mail alanı dolduruldu
+2022-10-29 15:34:34 INFO  FormTest:40 - female radio butonu tıklandı
+2022-10-29 15:34:34 INFO  FormTest:42 - mobil alanı dolduruldu
+2022-10-29 15:34:34 INFO  FormTest:44 - tarih dropdownu tıklandı
+2022-10-29 15:34:34 INFO  FormTest:47 - ay bilgisi seçildi 
+2022-10-29 15:34:34 INFO  FormTest:50 - yıl bilgisi seçildi 
+2022-10-29 15:34:34 INFO  FormTest:52 - gun bilgisi seçildi 
+2022-10-29 15:34:37 INFO  FormTest:54 - sport radio butonu tıklandı
+2022-10-29 15:34:37 INFO  FormTest:56 - dosya yolu tanımlandı 
+2022-10-29 15:34:37 INFO  FormTest:58 - dosya seç butonuna tıklandı
+2022-10-29 15:34:37 INFO  FormTest:60 - adres bilgisi dolduruldu
+2022-10-29 15:34:37 INFO  FormTest:64 - ulke ve sehir secildikten sonra submit butonuna tıklandı
+2022-10-29 15:43:12 INFO  FormTest:29 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:43:12 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 15:43:17 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:43:17 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 15:43:20 INFO  FormPagesFunction:30 - name alanı dolduruldu
+2022-10-29 15:44:57 INFO  FormTest:29 - Go To ToolsQA WebPage And Verify
+2022-10-29 15:44:57 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 15:45:00 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 15:45:00 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 15:45:04 INFO  FormPagesFunction:30 - name alanı dolduruldu
+2022-10-29 15:45:04 INFO  FormTest:39 - lastname alanı dolduruldu
+2022-10-29 15:45:04 INFO  FormTest:41 - mail alanı dolduruldu
+2022-10-29 15:45:07 INFO  FormTest:43 - female radio butonu tıklandı
+2022-10-29 15:45:07 INFO  FormTest:45 - mobil alanı dolduruldu
+2022-10-29 15:45:07 INFO  FormTest:47 - tarih dropdownu tıklandı
+2022-10-29 15:45:07 INFO  FormTest:50 - ay bilgisi seçildi 
+2022-10-29 15:45:07 INFO  FormTest:53 - yıl bilgisi seçildi 
+2022-10-29 15:45:07 INFO  FormTest:55 - gun bilgisi seçildi 
+2022-10-29 15:45:10 INFO  FormTest:57 - sport radio butonu tıklandı
+2022-10-29 15:45:10 INFO  FormTest:59 - dosya yolu tanımlandı 
+2022-10-29 15:45:10 INFO  FormTest:61 - dosya seç butonuna tıklandı
+2022-10-29 15:45:10 INFO  FormTest:63 - adres bilgisi dolduruldu
+2022-10-29 15:45:10 INFO  FormTest:67 - ulke ve sehir secildikten sonra submit butonuna tıklandı
+2022-10-29 16:09:53 INFO  FormTest:29 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:09:53 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 16:09:56 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:09:56 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 16:09:59 INFO  FormPagesFunction:35 - Click Forms Buton via jse
+2022-10-29 16:09:59 INFO  FormPagesFunction:40 - Click Forms Buton
+2022-10-29 16:09:59 INFO  FormPagesFunction:30 - Click and Completed Name 
+2022-10-29 16:09:59 INFO  FormPagesFunction:45 - Completed LastName
+2022-10-29 16:09:59 INFO  FormPagesFunction:51 - Completed Mail
+2022-10-29 16:10:02 INFO  FormPagesFunction:57 - Click female radio
+2022-10-29 16:10:02 INFO  FormPagesFunction:63 - Completed PhoneNumber
+2022-10-29 16:10:02 INFO  FormPagesFunction:70 - Click date
+2022-10-29 16:10:02 INFO  FormPagesFunction:73 - Selected month
+2022-10-29 16:10:02 INFO  FormPagesFunction:76 - Selected year
+2022-10-29 16:10:02 INFO  FormPagesFunction:78 - Selected day
+2022-10-29 16:10:05 INFO  FormPagesFunction:83 - Click Sport radio 
+2022-10-29 16:10:05 INFO  FormPagesFunction:88 - Given folder path for png
+2022-10-29 16:10:05 INFO  FormPagesFunction:90 - Send photo via png path
+2022-10-29 16:10:06 INFO  FormPagesFunction:96 - Completed Address
+2022-10-29 16:10:06 INFO  FormPagesFunction:103 - Select country , city and Click submit 
+2022-10-29 16:13:41 INFO  FormTest_Testng:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:13:41 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 16:13:44 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:13:44 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 16:13:47 INFO  FormPagesFunction:35 - Click Forms Buton via jse
+2022-10-29 16:13:47 INFO  FormPagesFunction:40 - Click Forms Buton
+2022-10-29 16:13:47 INFO  FormPagesFunction:30 - Click and Completed Name 
+2022-10-29 16:13:47 INFO  FormPagesFunction:45 - Completed LastName
+2022-10-29 16:13:47 INFO  FormPagesFunction:51 - Completed Mail
+2022-10-29 16:13:50 INFO  FormPagesFunction:57 - Click female radio
+2022-10-29 16:13:50 INFO  FormPagesFunction:63 - Completed PhoneNumber
+2022-10-29 16:13:51 INFO  FormPagesFunction:70 - Click date
+2022-10-29 16:13:51 INFO  FormPagesFunction:73 - Selected month
+2022-10-29 16:13:51 INFO  FormPagesFunction:76 - Selected year
+2022-10-29 16:13:51 INFO  FormPagesFunction:78 - Selected day
+2022-10-29 16:13:54 INFO  FormPagesFunction:83 - Click Sport radio 
+2022-10-29 16:13:54 INFO  FormPagesFunction:88 - Given folder path for png
+2022-10-29 16:13:54 INFO  FormPagesFunction:90 - Send photo via png path
+2022-10-29 16:13:54 INFO  FormPagesFunction:96 - Completed Address
+2022-10-29 16:13:54 INFO  FormPagesFunction:103 - Select country , city and Click submit 
+2022-10-29 16:15:52 INFO  FormTest:19 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:15:52 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 16:15:55 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:15:55 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 16:15:55 INFO  FormTest:29 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:15:55 INFO  FormTest:23 - Go To ToolsQA WebPage
+2022-10-29 16:15:55 INFO  FormTest:27 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:15:55 INFO  FormTest:32 - Succesful Login ToolsQA WebPage
+2022-10-29 16:15:58 INFO  FormPagesFunction:35 - Click Forms Buton via jse
+2022-10-29 16:15:58 INFO  FormPagesFunction:40 - Click Forms Buton
+2022-10-29 16:15:59 INFO  FormPagesFunction:30 - Click and Completed Name 
+2022-10-29 16:15:59 INFO  FormPagesFunction:45 - Completed LastName
+2022-10-29 16:15:59 INFO  FormPagesFunction:51 - Completed Mail
+2022-10-29 16:16:02 INFO  FormPagesFunction:57 - Click female radio
+2022-10-29 16:16:02 INFO  FormPagesFunction:63 - Completed PhoneNumber
+2022-10-29 16:16:02 INFO  FormPagesFunction:70 - Click date
+2022-10-29 16:16:02 INFO  FormPagesFunction:73 - Selected month
+2022-10-29 16:16:02 INFO  FormPagesFunction:76 - Selected year
+2022-10-29 16:16:02 INFO  FormPagesFunction:78 - Selected day
+2022-10-29 16:16:05 INFO  FormPagesFunction:83 - Click Sport radio 
+2022-10-29 16:16:05 INFO  FormPagesFunction:88 - Given folder path for png
+2022-10-29 16:16:05 INFO  FormPagesFunction:90 - Send photo via png path
+2022-10-29 16:16:05 INFO  FormPagesFunction:96 - Completed Address
+2022-10-29 16:16:05 INFO  FormPagesFunction:103 - Select country , city and Click submit 
+2022-10-29 16:16:05 INFO  Popup_ScreenshotTest:17 - pop-up bekletildi
+2022-10-29 16:16:06 INFO  Popup_ScreenshotTest:19 - ekran görüntüsü alındı
+2022-10-29 16:47:18 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:47:18 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 16:47:20 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:47:20 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 16:47:20 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 16:47:20 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 16:47:20 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 16:47:20 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 16:47:23 INFO  FormPagesFunction:35 - Click Forms Buton via jse
+2022-10-29 16:47:23 INFO  FormPagesFunction:40 - Click Forms Buton
+2022-10-29 16:47:24 INFO  FormPagesFunction:30 - Click and Completed Name 
+2022-10-29 16:47:24 INFO  FormPagesFunction:45 - Completed LastName
+2022-10-29 16:47:24 INFO  FormPagesFunction:51 - Completed Mail
+2022-10-29 16:47:27 INFO  FormPagesFunction:57 - Click female radio
+2022-10-29 16:47:27 INFO  FormPagesFunction:63 - Completed PhoneNumber
+2022-10-29 16:47:27 INFO  FormPagesFunction:70 - Click date
+2022-10-29 16:47:27 INFO  FormPagesFunction:73 - Selected month
+2022-10-29 16:47:27 INFO  FormPagesFunction:76 - Selected year
+2022-10-29 16:47:27 INFO  FormPagesFunction:78 - Selected day
+2022-10-29 16:47:30 INFO  FormPagesFunction:83 - Click Sport radio 
+2022-10-29 16:47:30 INFO  FormPagesFunction:88 - Given folder path for png
+2022-10-29 16:47:30 INFO  FormPagesFunction:90 - Send photo via png path
+2022-10-29 16:47:30 INFO  FormPagesFunction:96 - Completed Address
+2022-10-29 16:47:30 INFO  FormPagesFunction:103 - Select country , city and Click submit 
+2022-10-29 16:47:30 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 16:47:31 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 17:01:29 INFO  FormTest:19 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:01:29 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:01:32 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:01:32 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:01:32 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:01:32 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:01:32 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:01:32 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:01:35 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 17:01:35 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 17:01:35 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 17:01:35 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 17:01:35 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 17:01:38 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 17:01:38 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 17:01:39 INFO  FormPagesFunction:71 - Click date
+2022-10-29 17:01:39 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 17:01:39 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 17:01:39 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 17:01:42 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 17:01:42 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 17:01:42 INFO  FormPagesFunction:91 - Send photo via png path
+2022-10-29 17:01:42 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 17:01:42 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 17:01:42 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 17:01:43 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 17:08:56 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:08:56 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:08:59 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:08:59 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:08:59 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:08:59 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:08:59 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:08:59 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:09:02 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 17:09:03 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 17:09:03 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 17:09:03 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 17:09:03 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 17:09:06 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 17:09:06 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 17:09:06 INFO  FormPagesFunction:71 - Click date
+2022-10-29 17:09:06 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 17:09:06 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 17:09:06 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 17:09:09 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 17:09:09 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 17:09:09 INFO  FormPagesFunction:91 - Send photo via png path
+2022-10-29 17:09:09 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 17:09:09 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 17:09:09 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 17:09:10 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 17:11:01 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:11:01 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:11:06 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:11:06 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:11:06 INFO  FormTest:22 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:11:06 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:11:06 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:11:06 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:11:09 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 17:11:09 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 17:11:10 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 17:11:10 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 17:11:10 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 17:11:13 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 17:11:13 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 17:11:13 INFO  FormPagesFunction:71 - Click date
+2022-10-29 17:11:13 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 17:11:13 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 17:11:13 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 17:11:16 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 17:11:16 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 17:11:16 INFO  FormPagesFunction:91 - Send photo via png path
+2022-10-29 17:11:16 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 17:11:16 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 17:11:16 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 17:11:17 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 17:16:06 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:16:06 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:16:09 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:16:09 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:16:09 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:16:09 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:16:09 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:16:09 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:16:13 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 17:16:13 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 17:16:13 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 17:16:13 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 17:16:13 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 17:16:16 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 17:16:16 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 17:16:16 INFO  FormPagesFunction:71 - Click date
+2022-10-29 17:16:16 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 17:16:16 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 17:16:16 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 17:16:19 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 17:16:19 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 17:17:16 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:17:16 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:17:29 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:17:29 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:17:29 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 17:17:29 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 17:17:29 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 17:17:29 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 17:17:32 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 17:17:32 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 17:17:32 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 17:17:32 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 17:17:32 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 17:17:35 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 17:17:35 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 17:17:35 INFO  FormPagesFunction:71 - Click date
+2022-10-29 17:17:36 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 17:17:36 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 17:17:36 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 17:17:39 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 17:17:39 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 17:17:39 INFO  FormPagesFunction:91 - Send photo via png path
+2022-10-29 17:17:39 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 17:17:39 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 17:17:39 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 17:17:40 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 20:10:25 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 20:10:25 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 20:10:39 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 20:10:39 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 20:10:39 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 20:10:39 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 20:10:39 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 20:10:39 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 20:10:42 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 20:10:42 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 20:10:43 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 20:10:43 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 20:10:43 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 20:10:46 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 20:10:46 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 20:10:46 INFO  FormPagesFunction:71 - Click date
+2022-10-29 20:10:46 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 20:10:46 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 20:10:46 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 20:10:49 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 20:10:49 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 20:10:50 INFO  FormPagesFunction:91 - Send photo via png path
+2022-10-29 20:10:50 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 20:10:50 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 20:10:50 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 20:10:51 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 21:13:54 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:13:54 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:13:57 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:13:57 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:13:57 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:13:57 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:13:58 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:13:58 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:14:01 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 21:14:01 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 21:14:01 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 21:14:01 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 21:14:01 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 21:14:04 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 21:14:04 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 21:14:04 INFO  FormPagesFunction:71 - Click date
+2022-10-29 21:14:04 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 21:14:05 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 21:14:05 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 21:14:08 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 21:14:08 INFO  FormPagesFunction:89 - Given folder path for png
+2022-10-29 21:15:03 INFO  FormTest:21 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:15:03 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:15:06 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:15:06 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:15:06 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:15:06 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:15:07 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:15:07 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:15:10 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 21:15:10 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 21:15:10 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 21:15:10 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 21:15:10 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 21:15:13 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 21:15:13 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 21:15:13 INFO  FormPagesFunction:71 - Click date
+2022-10-29 21:15:13 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 21:15:13 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 21:15:13 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 21:15:17 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 21:15:17 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 21:15:17 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 21:15:17 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 21:15:17 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
+2022-10-29 21:15:44 INFO  FormTest:23 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:15:44 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:15:46 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:15:46 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:15:46 INFO  FormTest:20 - Go To ToolsQA WebPage And Verify
+2022-10-29 21:15:46 INFO  FormTest:17 - Go To ToolsQA WebPage
+2022-10-29 21:15:46 INFO  FormTest:21 - Detect ToolsQA WebPage title as : 
+2022-10-29 21:15:46 INFO  FormTest:26 - Succesful Login ToolsQA WebPage
+2022-10-29 21:15:49 INFO  FormPagesFunction:36 - Click Forms Buton via jse
+2022-10-29 21:15:49 INFO  FormPagesFunction:41 - Click Forms Buton
+2022-10-29 21:15:49 INFO  FormPagesFunction:31 - Click and Completed Name 
+2022-10-29 21:15:49 INFO  FormPagesFunction:46 - Completed LastName
+2022-10-29 21:15:49 INFO  FormPagesFunction:52 - Completed Mail
+2022-10-29 21:15:52 INFO  FormPagesFunction:58 - Click female radio
+2022-10-29 21:15:52 INFO  FormPagesFunction:64 - Completed PhoneNumber
+2022-10-29 21:15:52 INFO  FormPagesFunction:71 - Click date
+2022-10-29 21:15:53 INFO  FormPagesFunction:74 - Selected month
+2022-10-29 21:15:53 INFO  FormPagesFunction:77 - Selected year
+2022-10-29 21:15:53 INFO  FormPagesFunction:79 - Selected day
+2022-10-29 21:15:56 INFO  FormPagesFunction:84 - Click Sport radio 
+2022-10-29 21:15:56 INFO  FormPagesFunction:97 - Completed Address
+2022-10-29 21:15:56 INFO  FormPagesFunction:104 - Select country , city and Click submit 
+2022-10-29 21:15:56 INFO  FormPagesFunction:20 - Wait Popup 5 sn
+2022-10-29 21:15:57 INFO  FormPagesFunction:25 - Screenshot PopUp : Also you can find in target/screenshot
